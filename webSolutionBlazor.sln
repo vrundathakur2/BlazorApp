@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VruServerSide", "VruServerSide\VruServerSide.csproj", "{4ACD51F3-1858-4D9C-A784-B7A96A09555B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VruWebSide", "VruWebSide\VruWebSide.csproj", "{F95318F5-041D-44C9-A89B-408EA3A6BD14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ACD51F3-1858-4D9C-A784-B7A96A09555B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ACD51F3-1858-4D9C-A784-B7A96A09555B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ACD51F3-1858-4D9C-A784-B7A96A09555B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ACD51F3-1858-4D9C-A784-B7A96A09555B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95318F5-041D-44C9-A89B-408EA3A6BD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95318F5-041D-44C9-A89B-408EA3A6BD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95318F5-041D-44C9-A89B-408EA3A6BD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95318F5-041D-44C9-A89B-408EA3A6BD14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC4F3B7F-BCA5-429B-AB32-EE4C791B6B3C}
+	EndGlobalSection
+EndGlobal
